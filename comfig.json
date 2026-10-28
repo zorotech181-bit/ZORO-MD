@@ -1,0 +1,19 @@
+{
+  "users": {
+    "50932630759": {
+      "sudoList": [
+        "50932630759@s.whatsapp.net"
+      ],
+      "tagAudioPath": "tag.mp3",
+      "antilink": true,
+      "response": true,
+      "autoreact": false,
+      "prefix": ".",
+      "reaction": "⚡",
+      "welcome": true,
+      "record": true,
+      "type": true,
+      "publicMode": false
+    }
+  }
+}
